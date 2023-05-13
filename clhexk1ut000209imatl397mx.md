@@ -45,7 +45,7 @@ Subhasmita concluded her session by sharing some useful resources for MLOps enth
 
 Abhinav Dubey, a DevOps engineer at Devtron and a CNCF ambassador, gave a talk on "GitOps just a Buzzword" at the WeMakeDevs Delhi meetup. He started by explaining what GitOps is and why it has become popular among developers. According to him, GitOps is an operating model that enables continuous delivery through the use of Git as a single source of truth.
 
-Abhinav also explained the differences between GitOps and traditional DevOps, highlighting how GitOps provides better version control, auditability, and security. He then went on to talk about the various GitOps tools available in the market, including ArgoCD, Flux, and Jenkins X.
+Abhinav also explained the differences between GitOps and traditional DevOps, highlighting how GitOps provides better version control, audibility, and security. He then went on to talk about the various GitOps tools available in the market, including ArgoCD, Flux, and Jenkins X.
 
 One interesting aspect of his talk was the security features that come naively with GitOps. He explained how GitOps provides better security by reducing the need for manual intervention in the deployment process, thus minimizing the risk of human error.
 
@@ -55,9 +55,9 @@ Abhinav also gave a demo of GitOps using a Devtron instance, showcasing how it c
 
 ## **Lunch and networking**
 
-After a morning full of insightful talks, it was finally time for lunch and networking. The aroma of fresh pizza from Pizza Hut filled the air, and everyone was excited to take a break and indulge in some delicious food. As we enjoyed our lunch, we had the opportunity to interact with other attendees, speakers, and organizers, and build new connections. I had the pleasure of meeting [Gauri](https://twitter.com/gaurii09), a talented content writer at WeMakeDevs, and [Rakshit](https://twitter.com/RakshitGondwal), who had recently been selected for GSoC'23, and clicking pictures with them. Then, I ran into [Akshay](https://twitter.com/akshayktwt), and we enjoyed our pizza together while discussing the importance of community building and DevOps. And we exchanged ideas and talked about our experiences in the tech industry. Later, I had the chance to speak with [Siddhant](https://twitter.com/i_siddhantk), the program manager at WeMakeDevs, who played a significant role in organizing this event. He shared some behind-the-scenes stories of the event and how everything was orchestrated so smoothly. and he recorded my testimonial on the event. Overall, the lunch and networking sessions were fantastic experiences, and I made some great connections. I was grateful for the opportunity to interact with so many talented and like-minded individuals.
+After a morning full of insightful talks, it was finally time for lunch and networking. The aroma of fresh pizza from Pizza Hut filled the air, and everyone was excited to take a break and indulge in some delicious food. As we enjoyed our lunch, we had the opportunity to interact with other attendees, speakers, and organizers, and build new connections. I had the pleasure of meeting [Gauri](https://twitter.com/gaurii09), a talented content writer at WeMakeDevs, and [Rakshit](https://twitter.com/RakshitGondwal), who had recently been selected for GSoC'23, and clicking pictures with them. Then, I ran into [Akshay](https://twitter.com/akshayktwt), and we enjoyed our pizza together while discussing the importance of community building and DevOps. And we exchanged ideas and talked about our experiences in the tech industry. Later, I had the chance to speak with [Siddhant](https://twitter.com/i_siddhantk), the program manager at WeMakeDevs, who played a significant role in organizing this event. He shared some behind-the-scenes stories of the event and how everything was orchestrated so smoothly. and he recorded my testimonial at the event. Overall, the lunch and networking sessions were fantastic experiences, and I made some great connections. I was grateful for the opportunity to interact with so many talented and like-minded individuals.
 
-## **Containerizing - How and When? by** [**Apoorv Goyal**](https://twitter.com/apoorvtwts)
+## **Containerizing: How and When? by** [**Apoorv Goyal**](https://twitter.com/apoorvtwts)
 
 Apoorv Goyal, founder of Virtual Tech School and a web developer, was the next speaker at the event. His topic of discussion was "Containerizing: How and When?" Apoorv talked about the importance of containers and when to use them. Before diving into containers, he explained the motivation behind their use. Apoorv then went on to describe what containers are and why they have become so popular and beneficial. He highlighted some of the benefits of using containers over traditional systems, such as traditional deployment and the dependency matrix. Finally, he discussed how containers provide consistency and ease of deployment.
 
@@ -73,7 +73,7 @@ Furthermore, the panel talked about how sharing one's experience and learnings c
 
 ## Closing Ceremony by Bhavaya Sachdeva
 
-Bhavya Sachdeva, Ambassador at Kubesimplify and Developer at WeMakeDevs, spoke at the closing ceremony, highlighting an incredible sponsor for learning Kubernetes, Rawkode Academy. I highly recommend checking out Rawkode Academy at [**https://rawkode.academy/**](https://rawkode.academy/) to enhance your knowledge and skills in this cutting-edge technology.
+Bhavya Sachdeva, Ambassador at Kubesimplify and Developer at WeMakeDevs spoke at the closing ceremony, highlighting an incredible sponsor for learning Kubernetes, Rawkode Academy. I highly recommend checking out Rawkode Academy at [**https://rawkode.academy/**](https://rawkode.academy/) to enhance your knowledge and skills in this cutting-edge technology.
 
 ## **Networking and Photos**
 
