@@ -4,7 +4,7 @@ seoTitle: "A Comprehensive Overview of WeMakeDevs Delhi Meetup 2023"
 seoDescription: "The WeMakeDevs Delhi Meetup on May 7th, 2023, was an amazing gathering of over 500 attendees, including speakers and organizers, hosted at the KEIT group of"
 datePublished: Mon May 08 2023 14:20:35 GMT+0000 (Coordinated Universal Time)
 cuid: clhexk1ut000209imatl397mx
-slug: we-make-devs-delhi-meetup-may-7th-2023-experience-insights
+slug: we-make-devs-delhi-meetup-may-7th2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683553625390/a0535c3d-432d-4d27-81e8-1010755551ce.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683555603363/e6424526-827b-432a-bdd2-5ac919be1293.png
 tags: devops, 2articles1week, kunalkushwaha, wemakedevs, wemakedevsdelhimeetup
