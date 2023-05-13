@@ -7,7 +7,7 @@ cuid: clhexk1ut000209imatl397mx
 slug: we-make-devs-delhi-meetup-may-7th-2023-experience-insights
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683553625390/a0535c3d-432d-4d27-81e8-1010755551ce.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1683555603363/e6424526-827b-432a-bdd2-5ac919be1293.png
-tags: devops, kunalkushwaha, wemakedevs, wemakedevsdelhimeetup
+tags: devops, 2articles1week, kunalkushwaha, wemakedevs, wemakedevsdelhimeetup
 
 ---
 
